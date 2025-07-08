@@ -1,0 +1,17 @@
+[inputs]
+forest_cover_t1=/
+forest_cover_t2=/
+forest_cover_t3=/
+forest_cover_change_t12=/
+forest_cover_change_t23=/
+distance_deforestation_t12=/
+distance_deforestation_t23=/
+distance_forest_edge_t2=/
+distance_forest_edge_t3=/
+elevation=/
+slope=/
+distance_road=/
+river=/
+settlement=/
+distance_settlement=/
+protected_area=/

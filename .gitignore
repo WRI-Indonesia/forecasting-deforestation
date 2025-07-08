@@ -1,0 +1,14 @@
+# Ignore log files
+*.log
+
+.ipynb_checkpoints/
+
+# Ignore temp folders
+temp/
+
+input/
+
+intermediary/
+
+config.ini
+
