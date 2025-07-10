@@ -1,14 +1,17 @@
-# Ignore log files
+# Ignore several files
 *.log
+*.pyc
 
 .ipynb_checkpoints/
 
-# Ignore temp folders
+# Ignore these folders
 temp/
 
 input/
 
-intermediary/
+process/
 
+__pycache__/
+
+# Ignore specific file
 config.ini
-
