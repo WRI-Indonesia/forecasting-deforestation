@@ -1,3 +1,13 @@
+[global]
+# input_base = input
+process_base = process
+output_base = output
+
+input_base = https://s3.wri-indonesia.id/earth-observation/far/ntb/input/
+#process_base = https://s3.wri-indonesia.id/earth-observation/far/ntb/process/
+#output_base = https://s3.wri-indonesia.id/earth-observation/far/ntb/output/
+
+
 [input]
 aoi=ntb.shp
 forest_cover_t1=forest_t1.tif
